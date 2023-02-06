@@ -1,0 +1,1 @@
+select * from customerselect * from salesmanselect * from orders
